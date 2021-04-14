@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "310005052210",
+    "firebase_url": "https://betaversion-1a8ac.firebaseio.com",
+    "project_id": "betaversion-1a8ac",
+    "storage_bucket": "betaversion-1a8ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310005052210:android:f50a9b34902f186e",
+        "android_client_info": {
+          "package_name": "com.example.senzosmacbookpro13touchbar.betaversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310005052210-safctvn2kqmop3gtt7hk4pfna1r04u18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senzosmacbookpro13touchbar.betaversion",
+            "certificate_hash": "1c08462fe6b4ba8cd5bc0461ca4f301d3b17028f"
+          }
+        },
+        {
+          "client_id": "310005052210-bjcavchr514p05epbf7htbon2akc93fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGqHjy1YYkkFu6H4oniy6ERmBeonjkgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310005052210-bjcavchr514p05epbf7htbon2akc93fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310005052210:android:38f4c03c6513652e",
+        "android_client_info": {
+          "package_name": "com.example.senzosmacbookpro13touchbar.serverside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310005052210-hib02lep2d2bn2g7db5m2fvhbc4k9ckb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senzosmacbookpro13touchbar.serverside",
+            "certificate_hash": "1c08462fe6b4ba8cd5bc0461ca4f301d3b17028f"
+          }
+        },
+        {
+          "client_id": "310005052210-bjcavchr514p05epbf7htbon2akc93fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGqHjy1YYkkFu6H4oniy6ERmBeonjkgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310005052210-bjcavchr514p05epbf7htbon2akc93fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
